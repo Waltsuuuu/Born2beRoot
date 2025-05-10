@@ -35,7 +35,7 @@ This project was a system administration exercise where a virtual machine (VM) r
 - **SSH Hardening**: Root login via SSH was disabled and SSH was set up on a non-standard port (4242).
 - **Firewall Management**: UFW was set up to block all ports except port 4242, enhancing system security.
 
-## Peer Evaluation
+## Project Peer Evaluation
 
 The peer evaluation process focused on reviewing the virtual machine's configuration to ensure all project requirements were met and that a solid understanding of the subject was demonstrated. This included verifying system configuration, monitoring script functionality, and the implementation of security measures such as user management, firewall, and SSH settings.
 
